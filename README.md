@@ -3,7 +3,7 @@
 pip install pygame gym-2048 gym
 ```
 
-Download the repo then
+Download the repository then
 
 ```
 python main.py
