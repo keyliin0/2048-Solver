@@ -7,7 +7,7 @@ pip install pygame gym-2048 gym
 
 Take each state and pass it to the search function which will return the best action.
 
-For the search we try to make every 4 possible combinaison of actions, we have 4 possible actions (Up, Down, Right, Left) and we want to make 4 consecutive actions so we have 4^4 possible moves in total to simulate.
+For the search we try to simulate every 4 possible combinaison of actions, we have 4 possible actions (Up, Down, Right, Left) and we want to make 4 consecutive actions so we have 4^4 possible moves in total to simulate.
 
 In the end we pick the action  that leads to the highest fitness fuction. 
 
