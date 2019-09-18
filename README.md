@@ -3,6 +3,12 @@
 pip install pygame gym-2048 gym
 ```
 
+Download the repo then
+
+```
+python main.py
+```
+
 #### How it works
 
 Take each state and pass it to the search function which will return the best action.
