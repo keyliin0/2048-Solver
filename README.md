@@ -17,6 +17,6 @@ For the search we try to simulate every 4 possible combinaison of actions, we ha
 
 In the end we pick the action  that leads to the highest fitness fuction. 
 
-The fitness function here is the sum of all the merged tiles while simulating the 4 actions.
+The fitness function here is the sum of all the merged tiles when simulating the 4 actions.
 
 ![alt text](https://raw.githubusercontent.com/keyliin0/2048-Solver/master/Screenshot.jpg)
